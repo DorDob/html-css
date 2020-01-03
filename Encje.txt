@@ -1,0 +1,24 @@
+Dowolne encje z oficjalnej listy:
+
+https://dev.w3.org/html5/html-author/charref
+
+-->
+<!doctype html>
+<html lang="pl">
+
+<head>
+    <meta charset="utf-8">
+    <title>Formatowanie dokumentu</title>
+</head>
+
+<body>
+    <h1>Ćwiczenia z HTML&NoBreak;5</h1>
+    <h2>Formatowanie zawarto&#347;ci strony</h2>
+   <p>&emsp;W trakcie &cacute;wicze&nacute; poznamy jak u&zdot;ywa&cacute; podstawowych elementów j&eogon;zyka HTML5 do formatowania strony&nbsp;WWW.<p>
+
+    <h3>Encje</h3>
+
+</body>
+</html>
+
+
