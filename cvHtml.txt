@@ -1,0 +1,104 @@
+<!doctype html>
+<html lang="pl">
+
+<head>
+    <meta charset="utf-8">
+    <title>CV</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link href="https://fonts.googleapis.com/css?family=Roboto:400,700&amp;subset=latin-ext" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    </head>
+
+<body>
+<div id="me">
+    <h1>
+    Anna Woźnicka - portfolio
+    </h1>
+    <img src="https://www.gravatar.com/avatar/?d=mm&s=100"  alt= "CV photo" />
+   
+</div>
+<div id="content">
+
+  <h3>Tester z 5-letnim doświadczeniem</h3>
+  <p> W zawodzie testera pracuję od 5 lat. Ukończyłam wiele kursów z zakresu testowania, posiadam także certyfikat ISTQB (poziom podstawowy).  Na dotychczasowych stanowiskach, zajmowałam się głównie testowaniem aplikacji webowych. Jeżeli chodzi o moje umiejętności: posiadam doświadczenie w pracy z technologiami webowymi: HTML, CSS, JS i XPATH, dobrą znajomość  systemów operacyjnych Windows i Linux, oraz umiejętności związane z programowaniem w Pythonie (poziom średniozaawansowany). Komunikatywnie posługuję się językiem angielskim.   </p>
+
+    <div id="technologies">
+    <h3> Umiejętności / technologie </h3>
+    
+<ul>
+    
+    <li>Znajomość technologii webowych (HTML, CSS, JS, XPATH)</li>
+    <li>Znajomość systemów operacyjnych: Linux, Windows</li>
+    <li>Umiejętność programowania w Pythonie (poziom średniozaawansowany)</li>
+    <li>Wiedza z zakresu procesów wytwarzania oprogramowania</li>
+    <li>Komunikatywna znajomość języka angielskiego</li>
+</ul>
+   
+    </div>
+<div id="workplace">
+
+<h3> Doświadczenie </h3>
+
+    <table id="experience"  >
+   
+<tr>
+    <th> Firma</th>     <th>Od - do </th>   <th>Zadania </th>
+</tr>
+<tr>
+    <td>  BTS Computers  </td>    <td> 28.09.2019  - do teraz </td>  <td> nadzór nad jakością oprogramowania tworzonego przez firmę</td>
+</tr>
+<tr>
+    <td> Pixel Company  </td>     <td>26.06.2016  - 27.09.2018 </td>  <td> tworzenie scenariuszy testowych i raportów końcowych</td>
+</tr>
+<tr>
+    <td>  Firma informatyczna  ALDO </td>    <td> 12.01.2014  - 25.06.2016 </td>  <td> wykonywanie przypadków testowych  i raportowanie wyników</td> 
+</tr>
+
+  </table>
+</div>
+ 
+    <div id="reccomendations">
+    <h3>Rekomendacje</h3>
+
+    <blockquote>
+    Swietny pracownik!  - Grażyna Malinowska</blockquote>
+    <blockquote>
+ Zaangażowany, rzetelny, godny zaufania pracownik! -  Jan Kowalski
+</blockquote>
+      
+    </div>
+
+    <div id="contact">
+
+    <h3>Kontakt </h3>
+    <form action="mailto:anna.woznickaaa@gmail.com"  method="get">
+  <label for="input-imie">Imię</label>
+    
+    <input type="text" name="imie" placeholder="Wpisz imię" id="input-imie">
+    
+    <label for="input-email">Email</label>
+    
+    <input type="text" name="email" placeholder="Wpisz email" id="input-email">
+    
+        <label for="input-message">Wiadomość</label>
+             <textarea cols="22" rows="2" placeholder="Wpisz wiadomość" id="input-message"></textarea>
+     
+    <input type="submit" name="przycisk" value="Wyślij">
+    
+    </form>
+    </div>
+
+    <div id="links">
+    
+    
+    <a href="https://pl-pl.facebook.com/pg/TeamPredictive/posts/" target="_blank" title="Mój profil na Facebooku"> 
+    <img src="https://icons.duckduckgo.com/ip3/www.facebook.com.ico" width= "15" alt="Facebook icon" /> </a>
+    <a href="https://pl-pl.facebook.com/pg/TeamPredictive/posts/" target="_blank" title="Mój profil na Twitterze"> 
+    <img src="https://icons.duckduckgo.com/ip3/twitter.com.ico" width="15" alt="Twitter icon" /> </a>
+        
+    </div>
+</div>
+</body>
+
+</html>
